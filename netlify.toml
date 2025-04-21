@@ -10,5 +10,3 @@
   NPM_FLAGS = "--legacy-peer-deps"
   CI = "false"  # Avoid unnecessary strict CI behaviors
 
-[[plugins]]
-  package = "@netlify/plugin-cache-core"
